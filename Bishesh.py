@@ -1,2 +1,2 @@
-from sc.ula import cpython
+from sc.ula import cython
 from sc import ula
