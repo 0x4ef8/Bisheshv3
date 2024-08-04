@@ -1,6 +1,10 @@
 import sys
 import os
 
-sys.path.append(os.path.abspath('./sc'))
+so_file_directory = "/sc"
+sys.path.append(so_file_directory)
 
-import ula_cpython_311 as ula
+import ula
+
+result = ula.example_function()
+print(result)
