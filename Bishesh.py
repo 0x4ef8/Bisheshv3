@@ -1,3 +1,1 @@
-import os 
-from sc import ula
-import ula
+import sc.ula.cpython-311 as ula
