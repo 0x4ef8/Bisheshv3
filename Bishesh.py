@@ -1,7 +1,7 @@
 import sys
 import os
 
-so_file_directory = "/sc"
+so_file_directory = "sc"
 sys.path.append(so_file_directory)
 
 import ula
