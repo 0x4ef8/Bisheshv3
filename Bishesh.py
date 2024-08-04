@@ -1,1 +1,2 @@
-import sc.ula.cpython-311 as ula
+from sc.ula import cpython
+from sc import ula
